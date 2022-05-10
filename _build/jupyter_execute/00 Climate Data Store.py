@@ -5,7 +5,7 @@
 
 # <br>
 
-# # Climate Data Store
+# # Climate Data Store Tutorial
 
 # This notebook provides you an introduction to the Copernicus Climate Data Store (CDS), an overview of the type of data that can be accessed and gives practical examples how to access and retrieve data from the CDS.
 
